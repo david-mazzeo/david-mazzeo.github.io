@@ -286,9 +286,14 @@ hr {
 }
 
 body {
+  margin: 0px;
   line-height: 1.3;
   background-color: #000000;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+header { 
+  border: 1px rgba(255,255,255,0) solid; 
 }
 
 .mikronBody {
