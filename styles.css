@@ -156,6 +156,10 @@ a {
   border-radius: 10px;
 }
 
+.mikronFooter {
+  background-color: #E8E8E8;
+}
+
 .bodyContent {
   max-width: 700px;
   margin: auto;
