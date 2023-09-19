@@ -6,11 +6,78 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		12FDD6D92AB99E3C00584D79 /* Moment-In-Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Moment-In-Time.png"; sourceTree = "<group>"; };
+		12FDD6DA2AB99E3C00584D79 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		12FDD6DB2AB99E3C00584D79 /* Fast-Forward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fast-Forward.png"; sourceTree = "<group>"; };
+		12FDD6DC2AB99E3C00584D79 /* mikronScreenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mikronScreenshot1.png; sourceTree = "<group>"; };
+		12FDD6DD2AB99E3C00584D79 /* Particle-Binder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Particle-Binder.png"; sourceTree = "<group>"; };
+		12FDD6DE2AB99E3C00584D79 /* TouchRuler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TouchRuler.png; sourceTree = "<group>"; };
+		12FDD6DF2AB99E3C00584D79 /* twitter-app-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter-app-icon.png"; sourceTree = "<group>"; };
+		12FDD6E02AB99E3C00584D79 /* learn.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = learn.html; sourceTree = "<group>"; };
+		12FDD6E12AB99E3C00584D79 /* contact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contact.html; sourceTree = "<group>"; };
+		12FDD6E22AB99E3C00584D79 /* Bored.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bored.png; sourceTree = "<group>"; };
+		12FDD6E32AB99E3C00584D79 /* Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Time.png; sourceTree = "<group>"; };
+		12FDD6E42AB99E3C00584D79 /* Rewind.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rewind.png; sourceTree = "<group>"; };
+		12FDD6E52AB99E3C00584D79 /* Heart-Tempo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Heart-Tempo.png"; sourceTree = "<group>"; };
+		12FDD6E62AB99E3C00584D79 /* Play-Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Play-Pause.png"; sourceTree = "<group>"; };
+		12FDD6E72AB99E3C00584D79 /* RWC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RWC.png; sourceTree = "<group>"; };
+		12FDD6E82AB99E3C00584D79 /* Pinger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pinger.png; sourceTree = "<group>"; };
+		12FDD6E92AB99E3C00584D79 /* Noise-Alerts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Noise-Alerts.png"; sourceTree = "<group>"; };
+		12FDD6EA2AB99E3C00584D79 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		12FDD6EB2AB99E3C00584D79 /* Mikron.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mikron.png; sourceTree = "<group>"; };
+		12FDD6EC2AB99E3C00584D79 /* mikronGradient.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mikronGradient.jpg; sourceTree = "<group>"; };
+		12FDD6ED2AB99E3C00584D79 /* Interstellar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Interstellar.png; sourceTree = "<group>"; };
+		12FDD6EE2AB99E3C00584D79 /* galacticIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = galacticIcon.png; sourceTree = "<group>"; };
+		12FDD6EF2AB99E3C00584D79 /* licence.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = licence.html; sourceTree = "<group>"; };
+		12FDD6F02AB99E3C00584D79 /* nightSky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nightSky.jpg; sourceTree = "<group>"; };
+		12FDD6F12AB99E3C00584D79 /* mikronTips.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mikronTips.html; sourceTree = "<group>"; };
+		12FDD6F22AB99E3C00584D79 /* projects.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = projects.html; sourceTree = "<group>"; };
+		12FDD6F32AB99E3C00584D79 /* Counter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Counter.png; sourceTree = "<group>"; };
+		12FDD6F42AB99E3C00584D79 /* mikron.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mikron.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		12FDD6B62AB99CA400584D79 = {
 			isa = PBXGroup;
 			children = (
+				12FDD6F52AB99E5500584D79 /* Images */,
+				12FDD6DA2AB99E3C00584D79 /* styles.css */,
+				12FDD6E12AB99E3C00584D79 /* contact.html */,
+				12FDD6EA2AB99E3C00584D79 /* index.html */,
+				12FDD6E02AB99E3C00584D79 /* learn.html */,
+				12FDD6EF2AB99E3C00584D79 /* licence.html */,
+				12FDD6F42AB99E3C00584D79 /* mikron.html */,
+				12FDD6F12AB99E3C00584D79 /* mikronTips.html */,
+				12FDD6F22AB99E3C00584D79 /* projects.html */,
 			);
+			sourceTree = "<group>";
+		};
+		12FDD6F52AB99E5500584D79 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				12FDD6E22AB99E3C00584D79 /* Bored.png */,
+				12FDD6F32AB99E3C00584D79 /* Counter.png */,
+				12FDD6DB2AB99E3C00584D79 /* Fast-Forward.png */,
+				12FDD6EE2AB99E3C00584D79 /* galacticIcon.png */,
+				12FDD6E52AB99E3C00584D79 /* Heart-Tempo.png */,
+				12FDD6ED2AB99E3C00584D79 /* Interstellar.png */,
+				12FDD6EB2AB99E3C00584D79 /* Mikron.png */,
+				12FDD6EC2AB99E3C00584D79 /* mikronGradient.jpg */,
+				12FDD6DC2AB99E3C00584D79 /* mikronScreenshot1.png */,
+				12FDD6D92AB99E3C00584D79 /* Moment-In-Time.png */,
+				12FDD6F02AB99E3C00584D79 /* nightSky.jpg */,
+				12FDD6E92AB99E3C00584D79 /* Noise-Alerts.png */,
+				12FDD6DD2AB99E3C00584D79 /* Particle-Binder.png */,
+				12FDD6E82AB99E3C00584D79 /* Pinger.png */,
+				12FDD6E62AB99E3C00584D79 /* Play-Pause.png */,
+				12FDD6E42AB99E3C00584D79 /* Rewind.png */,
+				12FDD6E72AB99E3C00584D79 /* RWC.png */,
+				12FDD6E32AB99E3C00584D79 /* Time.png */,
+				12FDD6DE2AB99E3C00584D79 /* TouchRuler.png */,
+				12FDD6DF2AB99E3C00584D79 /* twitter-app-icon.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
