@@ -96,7 +96,7 @@ button {
   border-style: none;
   outline-style: none;
   padding: 5px 10px;
-  width: 110px;
+  width: auto;
   border-style: solid;
   border-color: darkblue;
   background-color: black;
