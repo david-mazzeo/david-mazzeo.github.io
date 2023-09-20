@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		12EB118E2ABA828100D52972 /* galacticMoreInformation.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = galacticMoreInformation.html; sourceTree = "<group>"; };
 		12FDD6D92AB99E3C00584D79 /* Moment-In-Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Moment-In-Time.png"; sourceTree = "<group>"; };
 		12FDD6DA2AB99E3C00584D79 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		12FDD6DB2AB99E3C00584D79 /* Fast-Forward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fast-Forward.png"; sourceTree = "<group>"; };
@@ -45,6 +46,7 @@
 				12FDD6DA2AB99E3C00584D79 /* styles.css */,
 				12FDD6E12AB99E3C00584D79 /* contact.html */,
 				12FDD6EA2AB99E3C00584D79 /* index.html */,
+				12EB118E2ABA828100D52972 /* galacticMoreInformation.html */,
 				12FDD6E02AB99E3C00584D79 /* learn.html */,
 				12FDD6EF2AB99E3C00584D79 /* licence.html */,
 				12FDD6F42AB99E3C00584D79 /* mikron.html */,

@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>More Information | Galactic</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <div class="holder">
+      <div class="content">
+        <div class="top">
+
+          <div class="topnav">
+            <a class="inactive" href="index.html">Home</a>
+            <a class="inactive" href="projects.html">Projects</a>
+            <a class="inactive" href="learn.html">Learn</a>
+            <a class="inactive" href="contact.html">About Me</a>
+          </div>
+
+          <div class="header">
+            <h1 class="mainHead">Galactic</h1>
+            <p class="subHead">Read some more information about Galactic below.</p>
+          </div>
+        </div>
+        
+        <div class="bodyContent">
+            <div class="seperator"></div>
+            <p class="aboutText">Thanks for reading my submission! I'd love to share some extra details about Galactic that I couldn't fit into the form.</p>
+            
+            <div class="seperator"></div>
+        
+          <h2>Galactic's Story</h2>
+          <p class="aboutText">While brainstorming for Galactic over a year ago, I took a look at the rest of the browsers on the watchOS App Store, and noticed a gap in the market that could make a great impact on a user’s life. Most of my future competitors either opened their supported search engine’s website – making it hard to extract information from on such a small screen – or featured a search feature with limited functionality (i.e. ones that cannot link to other webpages, and/or only have details for keywords).</p>
+          <br>
+          <p class="aboutText">Users of these apps – especially those who required accessibility features – had to spend much longer than they should have squinting at their watches merely to read search results presented in a way that just didn’t suit the environment. My goal for Galactic was formed at this point; I wanted to create a browsing experience that not only accessed desktop-class search engines, but made their information readable and suited for the platform.</p>
+          <br>
+          <p class="aboutText">An app that pulled this off well would be able to deliver understandable answers to its users’ questions in mere seconds – making knowledge just that much easier to discover. In Galactic, this functionality could qualm those burning questions we get throughout the day, perform quick research during a meeting, keep a recipe open while cooking, or merely check up on the news and other favourite sites while our iPhones are unavailable.</p>
+          <br>
+          <p class="aboutText">To achieve my aim, I took steps to not only make web information easier to read, but faster to retrieve on the Apple Watch, hence why it subscribes to paid search APIs that allow the app to present its information in a stylish table that uses Apple design elements as opposed to a website with an overwhelming number of popups and distractions that a small screen simply can’t handle. Additionally, features like watch face complications allow users to enter a search in just a tap – instead of spending precious seconds searching for it on the home screen.</p>
+          <br>
+          <p class="aboutText">Other features such as multiple website renderers and accessibility options to increase content size allowed for vastly improved web compatibility and readable content for more people respectively compared to others in its category.</p>
+          <br>
+          <p class="aboutText">Additionally, the search engines Galactic supports were carefully selected to add even more functionality to the core idea behind the project. For example, the inclusion of the Dictionary API for quick word definitions, the Wikipedia API as an article reader, and the Pexels API as a photo gallery allowed Galactic to take on the features of multiple apps in just one – as opposed to including multiple search engines with the same purpose like some competitors.</p>
+          <br>
+          <p class="aboutText">Galactic’s design was also iterated on numerous times during development to get closer to my goal, especially with the help of Apple design evangelists like Gavin Condon and TC Chan at the Design Challenge I was invited to earlier this year.</p>
+          <br>
+          <p class="aboutText">These improvements not only helped make Galactic worth its cost, but created a browsing experience that I believe matched my goal of being overall accessible, easy to digest, and fast to access. By applying for an App Store promotion, I’m hoping to share my app with anyone who it may impact for the better.</p>
+          
+          <h2>Technical Information</h2>
+          <p class="aboutText">Galactic is an intuitive web browser exclusively for Apple Watch that I’ve worked on for the past year. It was built with the aim of weaving the web and streamlined style of watchOS together in a way that made detailed content easy to digest on a device where space is limited.</p>
+          <br>
+          <p class="aboutText">To accomplish this, Galactic accesses the APIs of five search engines (including Bing, Wikipedia, and the English dictionary) via URLSession upon your query, and uses JSONDecoder and WKInterfaceTable methods to render its information in a manner that puts the results you requested right up front – without the clutter you would find from going to their website instead.</p>
+          <br>
+          <p class="aboutText">From here, the app uses ASWebAuthenticationSession to load websites directly on the Watch, or another of the three renderers I built to improve compatibility across the web. One of which uses WatchConnectivity and WKWebView to load a page on your iPhone and transmits pictures of it to your wrist, bypassing the issues opening sites on such a small device could present.</p>
+          <br>
+          <p class="aboutText">I’ve also built a variety of secondary features for Galactic to improve my users’ browsing experience. Primarily, the app features bookmarks and history (via Core Data), complications that link straight into search (via ClockKit), and settings that allow users to customise content size for accessibility, and themes to fit their bands (via UserDefaults).</p>
+          <br>
+          <p class="aboutText">Galactic was designed with WatchKit and storyboards and written entirely in Swift, however I’m currently learning SwiftUI to rebuild it in a watchOS 10 style. This was the most technical project I’ve ever undertaken, and I’m very proud of how it turned out.</p>
+          
+          <div class="seperator"></div>
+          
+      </div>
+      </div>
+      <div class="footer">
+        <p>© 2023 David Mazzeo. All Rights Reserved.</p>
+        <p>Night sky image shot by <a href="https://www.pexels.com/photo/blue-pink-and-white-andromeda-galaxy-way-110854/">Miriam Espacio on Pexels.</a> <a href="https://www.pexels.com/license/">Licence.</a></p>
+      </div>
+    </div>
+  </body>
+</html>
+
