@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		12941E482ABB01A100E419A2 /* mikronPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mikronPrivacyPolicy.html; sourceTree = "<group>"; };
 		12EB118E2ABA828100D52972 /* galacticMoreInformation.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = galacticMoreInformation.html; sourceTree = "<group>"; };
 		12FDD6D92AB99E3C00584D79 /* Moment-In-Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Moment-In-Time.png"; sourceTree = "<group>"; };
 		12FDD6DA2AB99E3C00584D79 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 				12FDD6EF2AB99E3C00584D79 /* licence.html */,
 				12FDD6F42AB99E3C00584D79 /* mikron.html */,
 				12FDD6F12AB99E3C00584D79 /* mikronTips.html */,
+				12941E482ABB01A100E419A2 /* mikronPrivacyPolicy.html */,
 				12FDD6F22AB99E3C00584D79 /* projects.html */,
 			);
 			sourceTree = "<group>";
