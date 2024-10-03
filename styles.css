@@ -26,6 +26,13 @@ li {
   position: relative;
 }
 
+.fluroTop {
+    margin: 0;
+    background-image: url("fluroGradient.png");
+    background-size: cover;
+    position: relative;
+}
+
 .headerContact {
   text-align: center;
   color: white;
@@ -49,6 +56,16 @@ li {
   animation-name: fadeInOpacityWithDelay;
   animation-iteration-count: 1;
   animation-duration: 1s;
+}
+
+@font-face {
+    font-family: "TMT";
+    src: url(TMT.otf);
+}
+
+.fluroHead {
+    font-family: 'TMT';
+    font-weight: normal;
 }
 
 .subHead {
@@ -124,6 +141,35 @@ button {
   border-color: #ff0099;
   color: black;
   box-shadow: 0px 0px 15px 0px #ff57bc;
+}
+
+.fluroButton {
+    border-color: #00F900;
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+.fluroButton:hover {
+  background-color: #009c00;
+  border-color: #00F900;
+  color: black;
+  box-shadow: 0px 0px 15px 0px #82ff82;
+}
+
+.fluroShapeLeft {
+    float: left;
+    margin: 20px 40px 20px 0px;
+    width: 20%;
+}
+
+.fluroShapeRight {
+    float: right;
+    margin: 20px 20px 20px 20px;
+    width: 20%;
 }
 
 button:hover {
@@ -319,6 +365,13 @@ h2 {
   margin-left: 20px;
 }
 
+.fluroH3 {
+  padding: 0;
+  margin: 30px 0px 0px 20px;
+  padding-top: 1px;
+  color: white;
+}
+
 .seperator {
   margin: 40px 0;
 }
@@ -347,6 +400,18 @@ body {
 
 .mikronBody h2 {
   color: #000
+}
+
+.fluroBody {
+  background-color: #000
+}
+
+.fluroBody p {
+  color: #fff
+}
+
+.fluroBody h2 {
+  color: #d5ffd1
 }
 
 .largeScreenshot {
