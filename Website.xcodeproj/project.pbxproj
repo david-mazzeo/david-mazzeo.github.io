@@ -17,6 +17,7 @@
 		12C49CAC2CAE2D0C001C8CAD /* Fluro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fluro.png; sourceTree = "<group>"; };
 		12C49CAD2CAE2D77001C8CAD /* fluroSettings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fluroSettings.png; sourceTree = "<group>"; };
 		12C49CAE2CAE336A001C8CAD /* Shuttle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shuttle.png; sourceTree = "<group>"; };
+		12D237E82CB160B5006DD094 /* fluroPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = fluroPrivacyPolicy.html; sourceTree = "<group>"; };
 		12EB118E2ABA828100D52972 /* galacticMoreInformation.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = galacticMoreInformation.html; sourceTree = "<group>"; };
 		12FDD6D92AB99E3C00584D79 /* Moment-In-Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Moment-In-Time.png"; sourceTree = "<group>"; };
 		12FDD6DA2AB99E3C00584D79 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 				12FDD6F22AB99E3C00584D79 /* projects.html */,
 				128EE0C22CAD14E6009968BB /* fluro.html */,
 				12C49CAB2CAE27A6001C8CAD /* fluroTips.html */,
+				12D237E82CB160B5006DD094 /* fluroPrivacyPolicy.html */,
 			);
 			sourceTree = "<group>";
 		};
