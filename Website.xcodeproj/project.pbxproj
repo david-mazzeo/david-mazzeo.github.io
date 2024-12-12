@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1270AF342D0B9398005DCF42 /* studyPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = studyPrivacyPolicy.html; sourceTree = "<group>"; };
+		1270AF362D0B9493005DCF42 /* studyGradient.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = studyGradient.jpg; sourceTree = "<group>"; };
+		1270AF372D0B97EA005DCF42 /* StudyHelper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudyHelper.png; sourceTree = "<group>"; };
 		128EE0C22CAD14E6009968BB /* fluro.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = fluro.html; sourceTree = "<group>"; };
 		12941E482ABB01A100E419A2 /* mikronPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mikronPrivacyPolicy.html; sourceTree = "<group>"; };
 		12C49CA52CAE1269001C8CAD /* TMT.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = TMT.otf; sourceTree = "<group>"; };
@@ -73,6 +76,7 @@
 				12FDD6F12AB99E3C00584D79 /* mikronTips.html */,
 				12941E482ABB01A100E419A2 /* mikronPrivacyPolicy.html */,
 				12FDD6F22AB99E3C00584D79 /* projects.html */,
+				1270AF342D0B9398005DCF42 /* studyPrivacyPolicy.html */,
 				128EE0C22CAD14E6009968BB /* fluro.html */,
 				12C49CAB2CAE27A6001C8CAD /* fluroTips.html */,
 				12D237E82CB160B5006DD094 /* fluroPrivacyPolicy.html */,
@@ -107,7 +111,9 @@
 				12FDD6E72AB99E3C00584D79 /* RWC.png */,
 				12FDD6E32AB99E3C00584D79 /* Time.png */,
 				12FDD6DE2AB99E3C00584D79 /* TouchRuler.png */,
+				1270AF362D0B9493005DCF42 /* studyGradient.jpg */,
 				12FDD6DF2AB99E3C00584D79 /* twitter-app-icon.png */,
+				1270AF372D0B97EA005DCF42 /* StudyHelper.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";

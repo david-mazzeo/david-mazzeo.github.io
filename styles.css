@@ -26,6 +26,13 @@ li {
   position: relative;
 }
 
+.studyTop {
+  margin: 0;
+  background-image: url("studyGradient.jpg");
+  background-size: cover;
+  position: relative;
+}
+
 .fluroTop {
     margin: 0;
     background-image: url("fluroGradient.png");
