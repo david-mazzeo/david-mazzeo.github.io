@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		120677062D11606800BA4F38 /* TheBrief.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TheBrief.png; sourceTree = "<group>"; };
 		1270AF342D0B9398005DCF42 /* studyPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = studyPrivacyPolicy.html; sourceTree = "<group>"; };
 		1270AF362D0B9493005DCF42 /* studyGradient.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = studyGradient.jpg; sourceTree = "<group>"; };
 		1270AF372D0B97EA005DCF42 /* StudyHelper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudyHelper.png; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 				12FDD6E62AB99E3C00584D79 /* Play-Pause.png */,
 				12FDD6E42AB99E3C00584D79 /* Rewind.png */,
 				12C49CAE2CAE336A001C8CAD /* Shuttle.png */,
+				120677062D11606800BA4F38 /* TheBrief.png */,
 				12FDD6E72AB99E3C00584D79 /* RWC.png */,
 				12FDD6E32AB99E3C00584D79 /* Time.png */,
 				12FDD6DE2AB99E3C00584D79 /* TouchRuler.png */,
