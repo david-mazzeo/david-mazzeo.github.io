@@ -17,6 +17,9 @@
 		1270AF372D0B97EA005DCF42 /* StudyHelper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudyHelper.png; sourceTree = "<group>"; };
 		128EE0C22CAD14E6009968BB /* fluro.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = fluro.html; sourceTree = "<group>"; };
 		12941E482ABB01A100E419A2 /* mikronPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mikronPrivacyPolicy.html; sourceTree = "<group>"; };
+		12A35F7D2D96925200248DE7 /* justContact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = justContact.html; sourceTree = "<group>"; };
+		12A35F7F2D9692B200248DE7 /* ozVotePrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ozVotePrivacyPolicy.html; sourceTree = "<group>"; };
+		12A35F802D96946E00248DE7 /* ozVoteGradient.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ozVoteGradient.jpg; sourceTree = "<group>"; };
 		12C49CA52CAE1269001C8CAD /* TMT.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = TMT.otf; sourceTree = "<group>"; };
 		12C49CA82CAE158F001C8CAD /* fluroGradient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fluroGradient.png; sourceTree = "<group>"; };
 		12C49CA92CAE16FE001C8CAD /* fluroShapeOne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fluroShapeOne.png; sourceTree = "<group>"; };
@@ -75,6 +78,8 @@
 				12FDD6F52AB99E5500584D79 /* Images */,
 				12FDD6DA2AB99E3C00584D79 /* styles.css */,
 				12FDD6E12AB99E3C00584D79 /* contact.html */,
+				12A35F7D2D96925200248DE7 /* justContact.html */,
+				12A35F7F2D9692B200248DE7 /* ozVotePrivacyPolicy.html */,
 				12FDD6EA2AB99E3C00584D79 /* index.html */,
 				12EB118E2ABA828100D52972 /* galacticMoreInformation.html */,
 				12FDD6E02AB99E3C00584D79 /* learn.html */,
@@ -124,6 +129,7 @@
 				120677062D11606800BA4F38 /* TheBrief.png */,
 				12FDD6E72AB99E3C00584D79 /* RWC.png */,
 				12FDD6E32AB99E3C00584D79 /* Time.png */,
+				12A35F802D96946E00248DE7 /* ozVoteGradient.jpg */,
 				12FDD6DE2AB99E3C00584D79 /* TouchRuler.png */,
 				1270AF362D0B9493005DCF42 /* studyGradient.jpg */,
 				12FDD6DF2AB99E3C00584D79 /* twitter-app-icon.png */,

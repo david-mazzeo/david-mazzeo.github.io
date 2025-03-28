@@ -47,6 +47,13 @@ li {
     position: relative;
 }
 
+.ozVoteTop {
+    margin: 0;
+    background-image: url("ozVoteGradient.jpg");
+    background-size: cover;
+    position: relative;
+}
+
 .headerContact {
   text-align: center;
   color: white;
