@@ -30,6 +30,7 @@
 		12C49CAE2CAE336A001C8CAD /* Shuttle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shuttle.png; sourceTree = "<group>"; };
 		12D237E82CB160B5006DD094 /* fluroPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = fluroPrivacyPolicy.html; sourceTree = "<group>"; };
 		12EB118E2ABA828100D52972 /* galacticMoreInformation.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = galacticMoreInformation.html; sourceTree = "<group>"; };
+		12EBD0C52E0FA86F000CF61E /* lanternPrivacyPolicy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = lanternPrivacyPolicy.html; sourceTree = "<group>"; };
 		12FA4C1F2D14D7220039778E /* briefWatch2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = briefWatch2.png; sourceTree = "<group>"; };
 		12FA4C202D14D9C30039778E /* theBriefPrivacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = theBriefPrivacy.html; sourceTree = "<group>"; };
 		12FDD6D92AB99E3C00584D79 /* Moment-In-Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Moment-In-Time.png"; sourceTree = "<group>"; };
@@ -95,6 +96,7 @@
 				126201D82D1259F8009B2B83 /* theBrief.html */,
 				12C49CAB2CAE27A6001C8CAD /* fluroTips.html */,
 				12D237E82CB160B5006DD094 /* fluroPrivacyPolicy.html */,
+				12EBD0C52E0FA86F000CF61E /* lanternPrivacyPolicy.html */,
 			);
 			sourceTree = "<group>";
 		};
